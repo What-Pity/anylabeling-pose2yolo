@@ -1,0 +1,1 @@
+labelme --labels labels.txt --labelflags labelflags.yaml --config labelmerc
